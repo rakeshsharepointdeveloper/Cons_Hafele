@@ -10,6 +10,7 @@ namespace Cons_Hafele
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Demo");
         }
     }
 }
